@@ -1,0 +1,8 @@
+print(bool(23 + 3 == 15 + 12))
+print(bool(int(29 / 7) == 5))
+print(bool(27 % 8 == 3))
+x = int(input("Give me a number"))
+print(bool(not(x % 2)))
+print(bool(43 - 13 == 11 + 12))
+print(bool(129 / 17 == 3))
+print(bool(247 % 5 == 2))
