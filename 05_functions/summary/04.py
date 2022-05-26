@@ -1,8 +1,7 @@
 def check_num_in_range(number, my_range):
     if number in my_range:
         return True
-    else:
-        return False
+    return False
 
 
 def main():
