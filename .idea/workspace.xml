@@ -3,43 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7ce1fd93-0117-4514-827b-eabfa6ca3b37" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/.idea/01_intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/.idea/01_intro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/bmi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_intro/weeks.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Intro/weeks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/Homework/booleans.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/Homework/booleans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/Homework/numeric_systems.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/Homework/numeric_systems.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/Homework/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/Homework/strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/Homework/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/Homework/variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/booleans.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/booleans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/string_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/string_slice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/trip.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/trip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_types_and_variables/w_documentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Types_and_variables/w_documentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/basics/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/basics/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/basics/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/basics/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/basics/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/basics/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/basics/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/basics/04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/more_excercises/callendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Functions2/more_excercises/callendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/more_excercises/callendar_alt.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Functions2/more_excercises/callendar_alt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/more_excercises/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Functions2/more_excercises/rock_paper_scissors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/more_excercises/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Functions2/more_excercises/tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/prezentacja.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/prezentacja.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/02_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/02_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/02_03_alt.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/02_03_alt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/08_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/08_09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/summary/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/summary/10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Functions/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Files/excercises/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Files/excercises/05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +41,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projekty\CodeMe\06_Functions2" />
       <recent name="D:\Projekty\CodeMe\06_functions2" />
       <recent name="D:\Projekty\CodeMe\05_functions\more_excercises" />
       <recent name="D:\Projekty\CodeMe\04_Collections" />
       <recent name="D:\Projekty\CodeMe\04_Collections\lists" />
-      <recent name="D:\Projekty\CodeMe\03_Control_Flow\if" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05">
+  <component name="RunManager" selected="Python.06">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeMe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="adventure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeMe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Files/excercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_files/adventure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Files/excercises/06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="encoding_pan_tadeusz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeMe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Functions/summary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_files/encoding_pan_tadeusz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Functions/summary/07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06" />
+        <item itemvalue="Python.07" />
         <item itemvalue="Python.05" />
         <item itemvalue="Python.02" />
         <item itemvalue="Python.01" />
-        <item itemvalue="Python.encoding_pan_tadeusz" />
-        <item itemvalue="Python.adventure" />
       </list>
     </recent_temporary>
   </component>
