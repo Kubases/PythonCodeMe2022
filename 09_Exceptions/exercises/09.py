@@ -8,7 +8,7 @@ class URLError(Exception):
 def get_url():
     prefixes = ('https://', 'http://', 'www.')
     suffixes = ('.pl', '.com')
-    url = input('Write addres of website -> ')
+    url = input('Write address of website -> ')
     if not url.startswith(prefixes):
         raise URLError("Prefix incorrect")
     if not url.endswith(suffixes):
