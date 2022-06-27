@@ -7,7 +7,8 @@ class Flowers:
         self.flowering_season = flowering_season
 
     def show(self):
-        print(f'{self.species} of {self.color} color, which flowers in {self.flowering_season} from kingdom: {self.kingdom}')
+        print(f'{self.species} of {self.color} color,'
+              f' which flowers in {self.flowering_season} from kingdom: {self.kingdom}')
 
 
 def main():
